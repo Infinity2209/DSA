@@ -40,5 +40,8 @@
   "git.ignoreLimitWarning": true,
   "cSpell.words": [
     "bubblesort"
+  ],
+  "C_Cpp.codeAnalysis.clangTidy.checks.disabled": [
+    "clang-diagnostic-error"
   ]
 }
